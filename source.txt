@@ -1,0 +1,9 @@
+8 2 + hello ←
+hello 1 + beans ←
+beans hello + test ←
+
+beans ⊣
+hello ⊣
+test ⊣
+
+2 3 + ⊣
